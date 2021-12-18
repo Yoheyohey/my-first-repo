@@ -1,2 +1,2 @@
 # my-first-repo
-This is my super nice rep
+This is my ultimate repo.
